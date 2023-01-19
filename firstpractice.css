@@ -1,0 +1,42 @@
+h1{
+    color: blue;
+    border: 2px solid rgb(0, 255, 136);
+    border-radius: 10px;
+    background-color: rgb(173, 192, 218);
+    width: 500px;
+    margin-left: 50px;
+    padding: 40px 5px 10px 20px;
+}
+body{
+    margin-left: 50px;
+    background-color: rgb(185, 92, 181);
+}
+.red-border{
+    border: 10px solid royalblue;
+    color: white;
+}
+.red-border yello{
+    background-color: black;
+}
+#yello{
+    color: brown;
+}
+#fp{
+    background-color: whitesmoke;
+    padding-top: 10px;
+    padding-left: 15px;
+    width: 150px;
+    margin: 20px;
+}
+#form-part2{
+    background-color: whitesmoke;
+    padding-top: 10px;
+    padding-left: 15px;
+    width: 150px;
+    margin: 20px;
+   float:none;
+}
+#form-part3{
+
+
+}

@@ -1,0 +1,53 @@
+*{
+ padding: 0;
+ margin: 10px;
+ font-size: 20px;
+ box-sizing: border-box;
+  
+} 
+#heading{
+    color: aliceblue;
+    border: solid crimson;
+    border-radius: 10px;
+    background-color: black;
+}
+#sender{
+margin: 20px;
+border:20 solid cornsilk;
+border-radius: 30px;
+padding-left: 1rem;
+padding-bottom: 2rem;
+background-color: blue;
+color:white;
+}
+#item{
+    margin: 20px;
+    border: 20 solid cornsilk;
+    border-radius: 30px;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+  background-image: url(media/2.jpeg);
+    color: aliceblue;
+    
+    }
+    #receiver{
+        margin: 20px;
+        border: 20solid cornsilk; 
+        border-radius: 30px;
+        padding-left: 1rem;
+        padding-bottom: 1rem;
+        background-color: blue;
+        color: aliceblue;
+        
+        }
+        input{
+           width:  23rem;
+            border-radius: 10px;
+            color: brown;
+        }
+        img{
+            border-radius: 50px;
+            width: 80px;
+            height: 100px;
+        
+        }

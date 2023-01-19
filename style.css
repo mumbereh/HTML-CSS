@@ -1,0 +1,8 @@
+.container{
+    padding: 2rem;
+    display:flex ;
+}
+.form{
+    background: color #777;
+    padding: 3rem;
+}
